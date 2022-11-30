@@ -2,7 +2,7 @@
 name = "snakebasket"
 version = "0.1.0"
 description = "Your tool to package your whole Python project into a single source file!"
-authors = ["Matteo Bertucci <matteobertucci2004@gmail.com>"]
+authors = ["Amber Bertucci <amber@akarys.me>"]
 license = "MIT"
 
 [tool.poetry.dependencies]
